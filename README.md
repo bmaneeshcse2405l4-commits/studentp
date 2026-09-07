@@ -24,6 +24,7 @@ I enjoy learning new technologies, developing projects, and improving my program
 
 ### Programming Languages
 
+😊 *Maneesh*
 - 🐍 **Python**
 - ☕ **Java**
 - 💻 **C**
@@ -31,6 +32,7 @@ I enjoy learning new technologies, developing projects, and improving my program
 - 🎨 **CSS**
 - ⚡ **JavaScript**
 - 🗄️ **SQL**
+- 
 
 ### Tools & Technologies
 
