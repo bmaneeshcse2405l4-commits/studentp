@@ -1,6 +1,6 @@
 # 🎓 Student Portfolio
 
-![Profile Image](profile.jpg)
+![Profile Image](image.png)
 
 ## 👋 About Me
 
