@@ -113,7 +113,7 @@ A project demonstrating **Continuous Integration and Continuous Deployment (CI/C
 
 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
 
-🐙 **GitHub:** [My GitHub Profile](https://github.com/)
+🐙 **GitHub:** [My GitHub Profile](https://github.com/bmaneeshcse2405l4-commits)
 
 ---
 
